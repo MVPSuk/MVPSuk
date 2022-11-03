@@ -1,6 +1,4 @@
-- iae, sou o Marcos
-- faço uns programa em C e C#, por enquanto
-- é isso aí, tmj
+- iae
 
 <!---
 MVPSuk/MVPSuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
